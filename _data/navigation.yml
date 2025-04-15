@@ -1,4 +1,12 @@
-- title: Blog
-  url: /
-- title: About
-  url: /about/
+- title: Linear System
+  url: /linear_system/
+- title: Control Theory
+  url: /control_theory/
+- title: Robotics
+  url: /robotics/
+- title: Python
+  url: /python/
+- title: C++
+  url: /cpp/
+- title: Deep_Learning
+  url: /deep_learning/
